@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @docclaremore
 - 👀 I’m making a simple site
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: nope
+- 🌱 I’m currently learning how github works
+- 💞️ I’m looking to collaborate on nothing (i don't know how to)
+- 📫 How to reach me: @docclaremore on twitch, discord, pretty much everything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: lorem ipsum dolor imet
 
